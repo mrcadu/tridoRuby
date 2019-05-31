@@ -1,0 +1,2 @@
+class StatusTarefa < ApplicationRecord
+end

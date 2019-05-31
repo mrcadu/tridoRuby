@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails tridoRuby: production" uuid="b3c48d34-c79f-4502-be6a-2ed9ad13cd97">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>cadu</user-name>
+    </data-source>
+    <data-source name="Rails tridoRuby: test" uuid="f74c566f-13de-4593-833a-1b04fa305dc5">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>cadu</user-name>
+    </data-source>
+    <data-source name="Rails tridoRuby: development" uuid="b9262839-4851-44bb-a871-ee60e3aa140c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>cadu</user-name>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Mental: false
+  Fisico: false
+  Espiritual: false
+  Emocional: false
+
+two:
+  Mental: false
+  Fisico: false
+  Espiritual: false
+  Emocional: false
